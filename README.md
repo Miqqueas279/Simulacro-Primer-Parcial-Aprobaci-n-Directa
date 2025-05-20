@@ -1,1 +1,3 @@
-# Simulacro-Primer-Parcial-Aprobaci-n-Directa
+Nombre: Miqueas Servettini
+Div:316
+legajo:115979
